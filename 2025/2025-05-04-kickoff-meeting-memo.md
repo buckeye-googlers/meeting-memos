@@ -1,9 +1,11 @@
 # MEETING MEMO
 
-**Date:** May 4, 2025  
-**Time:** 3:15-5:15pm ET  
-**Participants:** Keming He, Joshua Joe  
-**Subject:** Buckeye Googlers Student Organization Kickoff  
+> Last updated on May 5, 2025
+
+**Date:** 2025-05-04
+**Time:** 3:15-5:15pm ET
+**Participants:** Keming He, Joshua Joe
+**Subject:** Buckeye Googlers Student Organization Kickoff
 
 ## EXECUTIVE SUMMARY
 
