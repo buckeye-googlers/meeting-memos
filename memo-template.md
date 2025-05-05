@@ -1,7 +1,7 @@
 # MEETING MEMO
 
 **Date:** [DATE]  
-**Time:** [START-END TIME] ET  
+**Time:** [HH:MM - HH:MM] ET  
 **Participants:** [NAMES OF ATTENDEES]  
 **Subject:** [MEETING TITLE]  
 
