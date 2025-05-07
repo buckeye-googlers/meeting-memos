@@ -1,11 +1,13 @@
 # MEETING MEMO
 
-> Last updated on May 5, 2025
+> Last updated on 2025-05-07
 
-**Date:** 2025-05-04
-**Time:** 3:15-5:15pm ET
-**Participants:** Keming He, Joshua Joe
-**Subject:** Buckeye Googlers Student Organization Kickoff
+- **Date:** 2025-05-04
+- **Time:** 3:15-5:15pm ET
+- **Location:** Virtual
+- **Attendees:**
+  - Keming He, Joshua Joe (Team Buckeye Googlers)
+- **Subject:** Buckeye Googlers Student Organization Kickoff
 
 ## EXECUTIVE SUMMARY
 
@@ -32,7 +34,7 @@ Initial planning meeting to establish Buckeye Googlers, a new OSU student organi
    - Google Public Sector: [Nathan Redmond](https://www.linkedin.com/in/nathan-redmond-a83ba910/), [Justin Ventura](https://www.linkedin.com/in/justin-ventura-b1158b12/)
    - OHI/O: Pending meeting with [Cal King](https://www.linkedin.com/in/cal-king-777a1111/) and [Dr. Nandi](https://www.linkedin.com/in/arnabdotorg/)
    - Center for Software Innovation: Director [Shereen (Khanuja) Agrawal](https://www.linkedin.com/in/shereenkhanuja/)
-   - Key Resources:
+   - External links:
      - [gHacks Platform](https://ghacks.dev/) - Challenge source
      - [ConstructI/O Conference](https://www.goconstruct.io/) - Networking opportunity
      - [Software Startups Course](https://software.osu.edu/intro-software-startups-cse-5889) - Supplementary resource
@@ -55,6 +57,7 @@ Initial planning meeting to establish Buckeye Googlers, a new OSU student organi
 
 - Topics: Executive team recruitment, material development  
 - Date/Time: TBD
+- Location: TBD
 
 ---
 
