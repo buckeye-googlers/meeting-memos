@@ -102,7 +102,7 @@ Follow these steps to contribute a new meeting agenda or memo:
     ```shell
     git switch main
     git pull
-    git branch -d docs/YYYY-MM-DD-meeting-[agenda|memo].md/yourgithubusername
+    git branch -d docs/YYYY-MM-DD-meeting-[agenda|memo]/yourgithubusername
     ```
 
     The remote branch will be automatically deleted by GitHub.
