@@ -55,4 +55,4 @@
 
 ---
 
-> Template version: 1.0 - Buckeye Googlers
+> Template version: 1.0.0 - Buckeye Googlers
