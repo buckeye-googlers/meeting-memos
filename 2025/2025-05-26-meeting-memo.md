@@ -1,6 +1,6 @@
 # MEETING MEMO
 
-> Last updated on 2025-05-26
+> Last updated on 2025-05-31
 
 - **Date:** 2025-05-26
 - **Time:** 11:00am-12:00pm ET
@@ -23,7 +23,13 @@ Post-mortem meeting analyzing gHacks test run outcomes and strategic planning fo
    - Implemented async training assignments between sessions for executive development
 
 2. **Operational Infrastructure and Meeting Format**
-   - Adopted distributed meeting approach: library rooms for teams + Zoom for opening logistics
+   - Adopted a distributed meeting approach:
+     - Each executive (mentor) is responsible for reserving a 2-hour study room in a library
+     - Executives host in-person sessions for their assigned team (mentees) in these rooms
+     - At the scheduled meeting time:
+       - All executives and members join a shared Zoom meeting online
+       - The Zoom session is used for centralized instructions, encouragement from Google employees, and a unified kickoff
+       - After the kickoff, teams proceed with their in-person sessions in their respective rooms
    - Confirmed Tuesday 6-8pm Columbus time as consistent semester meeting schedule
    - Decided on persistent GCP projects with centralized management pending QwikLabs resolution
    - Established mentor-led team scheduling responsibility for 2-hour library room reservations
