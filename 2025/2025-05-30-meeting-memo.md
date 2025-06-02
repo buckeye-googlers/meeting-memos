@@ -22,7 +22,7 @@ Onboarding session for incoming co-founder Aniket Chaudhari following similar st
    - Established expectation for high-quality digital presence matching industry standards
 
 2. **Director Role Structure and Individual Interests**
-   - Confirmed comprehensive director role framework as outlined in [05/29 memo](2025-05-29-meeting-memo.md)
+   - Confirmed comprehensive director role framework as outlined in [05/29 memo](./2025-05-29-meeting-memo.md)
    - **Aniket's specific interest**: Director of Internal Operations and Director of Engineering roles, similar to Aayush's preferences
    - **Keming's formalized role**: Director of Official Relations confirmed with added responsibility for supporting all executives through summer challenge training
 
