@@ -47,9 +47,9 @@ Follow these steps to contribute a new meeting agenda or memo:
       ```shell
       mkdir -p YYYY
       # For meeting agenda
-      cp meeting-agenda-template.md YYYY-semseter/YYYY-MM-DD-meeting-agenda.md
+      cp meeting-agenda-template.md YYYY-semester/YYYY-MM-DD-meeting-agenda.md
       # OR for meeting memo
-      cp meeting-memo-template.md YYYY-semseter/YYYY-MM-DD-meeting-memo.md
+      cp meeting-memo-template.md YYYY-semester/YYYY-MM-DD-meeting-memo.md
       ```
 
    - Edit the new file with the meeting details
@@ -58,7 +58,7 @@ Follow these steps to contribute a new meeting agenda or memo:
    - Create the reference directory if it doesn't exist:
 
      ```shell
-     mkdir -p YYYY-semseter/reference
+     mkdir -p YYYY-semester/reference
      ```
 
    - Place any supporting documents, images, or external files in this directory
@@ -67,15 +67,15 @@ Follow these steps to contribute a new meeting agenda or memo:
 6. **Commit your changes**
 
     ```shell
-    git add YYYY-semseter/YYYY-MM-DD-meeting-[agenda|memo].md
+    git add YYYY-semester/YYYY-MM-DD-meeting-[agenda|memo].md
     # If you have reference files
-    git add YYYY-semseter/reference/*
-    git commit -m "docs(YYYY-semseter/YYYY-MM-DD-meeting-[agenda|memo].md): add meeting [agenda|notes] for [brief description]"
+    git add YYYY-semester/reference/*
+    git commit -m "docs(YYYY-semester/YYYY-MM-DD-meeting-[agenda|memo].md): add meeting [agenda|notes] for [brief description]"
     ```
 
    The commit message follows this format:
    - `docs`: The type of change (always use "docs" for this repository)
-   - `(YYYY-semseter/YYYY-MM-DD-meeting-[agenda|memo].md)`: The file being changed
+   - `(YYYY-semester/YYYY-MM-DD-meeting-[agenda|memo].md)`: The file being changed
    - Description: Brief summary of what the meeting was about
 
 7. **Push changes and create a pull request**
