@@ -41,15 +41,15 @@ Follow these steps to contribute a new meeting agenda or memo:
     Replace `YYYY-MM-DD` with the meeting date, choose either `agenda` or `memo`, and replace `yourgithubusername` with your GitHub username.
 
 4. **Create a new meeting document**
-   - Create the year directory if it doesn't exist (e.g., `2025/`)
+   - Create the year-semester directory if it doesn't exist (e.g., `2025-summer/`)
    - Copy the appropriate template to create your new document:
 
       ```shell
       mkdir -p YYYY
       # For meeting agenda
-      cp meeting-agenda-template.md YYYY/YYYY-MM-DD-meeting-agenda.md
+      cp meeting-agenda-template.md YYYY-semester/YYYY-MM-DD-meeting-agenda.md
       # OR for meeting memo
-      cp meeting-memo-template.md YYYY/YYYY-MM-DD-meeting-memo.md
+      cp meeting-memo-template.md YYYY-semester/YYYY-MM-DD-meeting-memo.md
       ```
 
    - Edit the new file with the meeting details
@@ -58,7 +58,7 @@ Follow these steps to contribute a new meeting agenda or memo:
    - Create the reference directory if it doesn't exist:
 
      ```shell
-     mkdir -p YYYY/reference
+     mkdir -p YYYY-semester/reference
      ```
 
    - Place any supporting documents, images, or external files in this directory
@@ -67,15 +67,15 @@ Follow these steps to contribute a new meeting agenda or memo:
 6. **Commit your changes**
 
     ```shell
-    git add YYYY/YYYY-MM-DD-meeting-[agenda|memo].md
+    git add YYYY-semester/YYYY-MM-DD-meeting-[agenda|memo].md
     # If you have reference files
-    git add YYYY/reference/*
-    git commit -m "docs(YYYY/YYYY-MM-DD-meeting-[agenda|memo].md): add meeting [agenda|notes] for [brief description]"
+    git add YYYY-semester/reference/*
+    git commit -m "docs(YYYY-semester/YYYY-MM-DD-meeting-[agenda|memo].md): add meeting [agenda|notes] for [brief description]"
     ```
 
    The commit message follows this format:
    - `docs`: The type of change (always use "docs" for this repository)
-   - `(YYYY/YYYY-MM-DD-meeting-[agenda|memo].md)`: The file being changed
+   - `(YYYY-semester/YYYY-MM-DD-meeting-[agenda|memo].md)`: The file being changed
    - Description: Brief summary of what the meeting was about
 
 7. **Push changes and create a pull request**
@@ -88,7 +88,7 @@ Follow these steps to contribute a new meeting agenda or memo:
    - Click "Compare & pull request" for your branch
    - Fill out the pull request details
    - Request review from an executive member
-   - Pin the requested reviewer in Discord
+   - Ping the requested reviewer in Discord
 
 8. **Make any requested changes**
    - Address feedback from reviewers
@@ -113,7 +113,7 @@ Meeting documents are organized by year with a reference directory for supportin
 
 ```text
 meetings/
-├── 2025/
+├── 2025-summer/
 │   ├── 2025-05-04-meeting-agenda.md
 │   ├── 2025-05-04-meeting-memo.md
 │   └── reference/
