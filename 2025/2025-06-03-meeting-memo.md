@@ -4,7 +4,7 @@
 
 - **Date:** 2025-06-03
 - **Time:** 6:30-8:15pm ET
-- **Location:** Virtual (Google Meet)
+- **Location:** Virtual (Microsoft Teams)
 - **Attendees:**
   - Cal King (OHI/O Program Director, Buckeye Googlers Advisor)
   - Keming He (Team Buckeye Googlers)

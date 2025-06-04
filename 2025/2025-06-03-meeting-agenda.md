@@ -4,7 +4,7 @@
 
 - **Date:** 2025-06-03
 - **Time:** 6:30-7:00pm ET
-- **Location:** Microsoft Teams
+- **Location:** Virtual (Microsoft Teams)
 - **Attendees:**
   - Cal King (Team OHI/O, Buckeye Googlers Advisor)
   - Keming He, Joshua Joe, Yash Pandey, Ardi Ahmed, Aayush Paul, Aniket Chaudhari (Team Buckeye Googlers)
