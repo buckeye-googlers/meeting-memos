@@ -69,7 +69,7 @@ This meeting introduced the Buckeye Googlers executive team to advisor Cal King 
 | 0 | Follow up with exec team with meeting memo and task distribution | Keming | June 3rd |
 | 1 | Complete Buckeye Googlers Constitution draft | Keming | June 8th |
 | 1 | Finalize Discord server setup with onboarding process and verification | Ardi | June 11th |
-| 1 | Research CSE 2024 Open House and provide contact information to Joshua | Keming | June 3th |
+| 1 | Research CSE 2024 Open House and provide contact information to Joshua | Keming | June 3rd |
 | 1 | Send outreach email to CSE Department about Open House collaboration | Joshua | June 4th |
 | 1 | Prepare for Google meeting on name approval and event collaboration | Buckeye Googlers exec team | June 11th, 1:00pm |
 | 2 | Investigate Student Involvement Fair booth exemption options | Cal | After receiving Keming's email |
