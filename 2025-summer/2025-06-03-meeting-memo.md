@@ -1,6 +1,6 @@
 # MEETING MEMO
 
-> Last updated on 2025-06-03
+> Last updated on 2025-06-07
 
 - **Date:** 2025-06-03
 - **Time:** 6:30-8:15pm ET
@@ -77,6 +77,7 @@ This meeting introduced the Buckeye Googlers executive team to advisor Cal King 
 | 2 | Draft kickoff event collaboration options document for Google meeting | Aniket, Yash | Before June 11th |
 | 2 | Review completed Constitution draft | Yash | After Keming completes draft |
 | 2 | Discuss Buckeye Fintech booth sharing possibility with team | Aniket | TBD |
+| 2 | Discuss AI Club booth sharing possibility with team | Aayush | TBD |
 | 3 | Research alternative large event spaces on Ohio State main campus for 100+ attendees | Keming | Ongoing |
 | 3 | Ensure all executive team members have access to private contacts GitHub repository | Keming | June 4th |
 
