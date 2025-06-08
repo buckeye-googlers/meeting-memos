@@ -1,6 +1,6 @@
 # MEETING MEMO
 
-> Last updated on 2025-05-31
+> Last updated on 2025-06-07
 
 - **Date:** 2025-05-31
 - **Time:** 6:00-8:00pm ET
@@ -50,7 +50,7 @@ This executive training session focused on completing the Formula E gHacks chall
    - Random selection for members prioritizing commitment and availability post-kickoff
    - Meet Your Mentor session: September 2nd with project showcases, pizza, and relationship building
    - Cohort challenges begin following mentor introduction
-   - End-of-semester graduation ceremony
+   - End-of-semester graduation ceremony: Members will present completed challenges in a final showcase. Google connections will award top performers with referrals, event invites, certification vouchers, 1-on-1 mentorships, etc.
    - Post-session marketing: digital and IRL poster campaigns for transparency and accountability
 
 5. **Communication Platform**
